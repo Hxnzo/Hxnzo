@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
-  <h1 align="center">Hello, I'm Ahmaad</h1>
-  <h4 align="center">A recent graduate software developer with full-stack experience.</h4>
+  <h1 align="center">Hello, I'm Hanzalah Patel</h1>
+  <h4 align="center">A Fourth Year Software Engineering student at Ontario Tech University.</h4>
 </div>
 
 <picture>
