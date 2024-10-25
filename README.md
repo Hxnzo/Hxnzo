@@ -33,11 +33,11 @@
 <div align="center">
   <h2>☎️ Contact Me</h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/ahmaad-ansari/" target="blank">
+    <a href="https://www.linkedin.com/in/hanzalah-patel" target="blank">
       <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="LinkedIn" height="30"/>
     </a>
-    <a href="mailto:ahmaadaliansari@gmail.com" target="blank">
+    <a href="mailto:hanzalahhpatel@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
            alt="Email" height="30"/>
     </a>
